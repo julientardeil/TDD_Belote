@@ -1,0 +1,43 @@
+/Belote.sln
+# Build results
+bin/
+obj/
+out/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider-specific files
+.idea/
+*.sln.iml
+
+# VS Code settings
+.vscode/
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+*.dbmdl
+*.pdb
+
+# Test results
+TestResults/
+*.coverage
+*.coveragejson
+*.log
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/
+packages/
+*.nuspec
+*.psmdcp
+
+# Other
+*.DS_Store
+Thumbs.db
